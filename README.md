@@ -1,0 +1,2 @@
+# minimax
+IA example
